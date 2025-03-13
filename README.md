@@ -29,3 +29,19 @@ These rules ensures that:
 - it is impossible for the system to use any random number other than the one already drawn; in order to do this, the system would have to find another number whose digital signature exactly matches the one displayed to the player... that's impossible.
 
 https://github.com/RabbitCasino/Rabbit-Casino/blob/main/raw/pfs.mp4
+
+## Play safe
+
+Playing at Rabbit casino should always be considered as a way of exciting pass time, not a way of making money.
+Do you want to make joy and happiness last the longest possible? Just pick the minimum bet size. Avoid chasing losses, there is always another day. 
+
+## Legal Disclaimer
+
+Rabbit casino is designed to work on Tor network. Due to the nature of this network the system cannot filter players by geographical origins. In general there are no specific laws regulating bitcoin gambling. It is neither officially allowed nor prohibited.
+Please check your local laws to ensure online bitcoin gambling is allowed.
+Please check also you have reached the age specificied by the jurisdiction of your place of residence as eligible for online gaming.
+
+## About us
+
+We are a gambling and cryptocurrency technology enthusiast team. We believe there might be a place to have fun safely where players can truly remain anonymous. And we created it.
+Feel free to contact us at rabbitco@proton.me
