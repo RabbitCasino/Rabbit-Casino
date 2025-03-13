@@ -1,6 +1,6 @@
 # Rabbit Casino
 
-![project image](https://github.com/RabbitCasino/Rabbit-Casino/raw/banner.jpg)
+![project image](https://github.com/RabbitCasino/Rabbit-Casino/tree/main/raw/banner.jpg)
 
 ## Description
 
@@ -28,4 +28,4 @@ These rules ensures that:
 - the random number remains the same whichever game you choose, this guarantees the neutrality of the chosen number towards games
 - it is impossible for the system to use any random number other than the one already drawn; in order to do this, the system would have to find another number whose digital signature exactly matches the one displayed to the player... that's impossible.
 
-https://github.com/RabbitCasino/Rabbit-Casino/raw/pfs.mp4
+https://github.com/RabbitCasino/Rabbit-Casino/tree/main/raw/pfs.mp4
