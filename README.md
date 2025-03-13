@@ -5,6 +5,8 @@
 ## Description
 
 Rabbit Casino is an online casino where you can find unique games but above all Rabbit Casino is an exciting experiment that proves that it is possible to create a new type of online casino where the player can feel safe because the winnings are guaranteed by a system that "seals" the method of creating the games.
+Only Bitcoin accepted.
+
 Open your Tor browser and come visit us here
 
 http://omiz35ogxn55z5sxivse7nbpssjvdc2td7cs74xheimrntfpv2fqrmid.onion
@@ -29,6 +31,19 @@ These rules ensures that:
 - it is impossible for the system to use any random number other than the one already drawn; in order to do this, the system would have to find another number whose digital signature exactly matches the one displayed to the player... that's impossible.
 
 https://github.com/RabbitCasino/Rabbit-Casino/blob/main/raw/pfs.mp4
+
+## Playing modes
+
+You can play games in 2 ways: fun play or real play.
+
+### Fun play
+If you're not logged in or your account has not been activated yet you can only play fun mode: games use fake credits so you can explore games features safely.
+
+### Real play
+When you log in and your account is activated games start using real credits. Certainly you can go back to playing fun mode by logging out.
+
+Games automatically switch modes according to your account state and login.
+Games always warn you if you are playing fun or real.
 
 ## Play safe
 
